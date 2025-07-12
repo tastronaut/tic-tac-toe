@@ -1,5 +1,5 @@
 # Simple CLI-based Tic Tac Toe game made using Python 🐍
-# To be honest, Python 🐍 is very fun to code it!!
+# To be honest, Python 🐍 is very fun to code in!!
 
 class TicTacToe:
     def __init__(self):
