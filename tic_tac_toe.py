@@ -1,3 +1,6 @@
+# Simple CLI-based Tic Tac Toe game made using Python 🐍
+# To be honest, Python 🐍 is very fun to code it!!
+
 class TicTacToe:
     def __init__(self):
         self.board = [[' '] * 3 for _ in range(3)]
