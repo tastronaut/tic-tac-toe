@@ -10,7 +10,7 @@ A beautiful and interactive graphical tic-tac-toe game built with Python and Pyg
 ## 📋 Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Preview](#preview)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Controls](#controls)
@@ -33,7 +33,7 @@ This is a modern, visually appealing tic-tac-toe game with a graphical user inte
 - 💚 **Green winning line** highlight
 - ✨ **Semi-transparent overlays** for game over screen
 
-## 📸 ASCII Preview (Not the screenshot)
+## 📸 Preview
 
 ### Game Start
 ```
