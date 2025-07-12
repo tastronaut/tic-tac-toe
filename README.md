@@ -33,7 +33,7 @@ This is a modern, visually appealing tic-tac-toe game with a graphical user inte
 - 💚 **Green winning line** highlight
 - ✨ **Semi-transparent overlays** for game over screen
 
-## 📸 Screenshots
+## 📸 ASCII Preview (Not the screenshot)
 
 ### Game Start
 ```
