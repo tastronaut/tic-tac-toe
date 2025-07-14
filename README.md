@@ -91,7 +91,7 @@ This is a modern, visually appealing tic-tac-toe game with a graphical user inte
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tic-tac-toe-gui.git
+   git clone https://github.com/tastronaut/tic-tac-toe.git
    cd tic-tac-toe-gui
    ```
 
@@ -102,7 +102,7 @@ This is a modern, visually appealing tic-tac-toe game with a graphical user inte
 
 3. **Run the game**:
    ```bash
-   python tic_tac_toe_gui.py
+   python tic_tac_toe.py
    ```
 
 ## 🎲 How to Play
