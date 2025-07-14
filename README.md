@@ -1,6 +1,7 @@
 # 🎮 Tic-Tac-Toe Game
 
 A fun and interactive command-line tic-tac-toe game built with Python! 🐍
+```GUI version made with pygame avaliable in the GUI branch ```
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
