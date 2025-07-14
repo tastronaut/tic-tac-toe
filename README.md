@@ -39,7 +39,7 @@ This is a classic tic-tac-toe game implemented in Python with a clean, user-frie
 ## 🚀 Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tic-tac-toe-python.git
+   git clone https://github.com/tastronaut/tic-tac-toe.git
    cd tic-tac-toe-python
    ```
 
@@ -113,8 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ready to play?** Clone the repo and start your first game! 🚀
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe-python.git
-cd tic-tac-toe-python
+git clone https://github.com/tastronaut/tic-tac-toe.git
+cd tic-tac-toe
 python tic_tac_toe.py
 ```
 
